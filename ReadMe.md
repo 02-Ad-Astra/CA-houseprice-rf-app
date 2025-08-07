@@ -32,10 +32,8 @@ streamlit run app.py
 
 - app.py: Main Streamlit app
 - train_model.py: Generates the model and preprocessor
-- evaluate_model.py: Evaluates model performance
 - preprocessing.py: Preprocessing pipeline class
 - requirements.txt: Python package dependencies
-- data/: Directory for input CSV files
 
 
 ## Note:
