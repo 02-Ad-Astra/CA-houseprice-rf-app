@@ -1,0 +1,9 @@
+# Ignore all pickle files
+# *.pkl
+data/
+evaluate_model.py
+
+# Optional: ignore Python cache and system files
+# __pycache__/
+# *.py[cod]
+# .DS_Store
