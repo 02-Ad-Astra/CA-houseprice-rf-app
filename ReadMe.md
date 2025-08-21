@@ -5,27 +5,10 @@ Have a try at this link: https://ca-houseprice-rf-app-czxy7psynandypzc3ejftu.str
 
 ## Setup Instructions
 
-1. Install required packages:
+Install required packages:
 
 ```
 pip install -r requirements.txt
-```
-
-2. Run the training script to generate model files:
-
-```
-python train_model.py
-```
-
-This will create the following files in the current directory:
-- model.pkl
-- preprocessor.pkl
-- price_bounds.pkl
-
-3. Launch the Streamlit app:
-
-```
-streamlit run app.py
 ```
 
 ## File Structure
